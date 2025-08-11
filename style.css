@@ -1,7 +1,11 @@
 body{
 margin: 0;
 padding: 0;
-background-color: rgb(57, 57, 143);
+background-color: rgb(57, 57, 192);
+}
 
-
+header{
+width: 100%;
+height: 15vh;
+background-color: crimson;
 }
